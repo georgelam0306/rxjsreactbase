@@ -1,2 +1,0 @@
-# rxjsreactbase
-Created with CodeSandbox
